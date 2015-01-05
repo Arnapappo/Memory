@@ -26,12 +26,11 @@ public class Interfaccia extends JFrame{
 			do{
 				pos = random_position.nextInt(15);
 				if(!positions[pos]) {
-					break;				} 
+					break;				
+				} 
 			}while(true);
 			
-		}
-		
-		
+		}	
 		
 	}
 	

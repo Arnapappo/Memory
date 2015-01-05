@@ -32,7 +32,6 @@ public class Casella extends JButton implements ActionListener{
 				visualizzato = true;
 			}
 		}
-		
 	}
 
 	public void setConfermato(boolean confermato) {
